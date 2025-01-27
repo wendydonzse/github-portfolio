@@ -1,7 +1,7 @@
 
 # Hello World
-<h1 align="center">Hi 👋, I'm Wendy Do from Auckland, New Zealando</h1>
-<h3 align="center">A passionate Data Analytics, Cloud Engineering and How AI and Machine Learning transforms Our World </h3>
+<h1 align="center">Hi 👋, I'm Wendy Do from Auckland, New Zealand</h1>
+<h3 align="center">A passionate Data Analytics, Cloud Engineering and How AI and Machine Learning Transforms Our World.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendydonzse&label=Profile%20views&color=0e75b6&style=flat" alt="wendydonzse" /> </p>
 
@@ -11,7 +11,11 @@
 
 - 🌱 I’m currently learning **Data Analytics, Cloud Engineering and AI**
 
+- 👯 I’m looking to collaborate on **Cloud Engineering with Data Analytics**
+
 - 👨‍💻 All of my projects are available at [https://github.com/wendydonzse](https://github.com/wendydonzse)
+
+- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
 - 💬 Ask me about **Business, Technology and Data Analytics**
 
