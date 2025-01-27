@@ -1,7 +1,7 @@
 
-# Hello I'm Wendy Do from Auckland, New Zealand
-<h1 align="center">Hi 👋, I'm Wendy Do</h1>
-<h3 align="center">A passionate Data Analytics, Cloud Engineering and How AI and Machine Learning transform our world </h3>
+# Hello World
+<h1 align="center">Hi 👋, I'm Wendy Do from Auckland, New Zealando</h1>
+<h3 align="center">A passionate Data Analytics, Cloud Engineering and How AI and Machine Learning transforms Our World </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendydonzse&label=Profile%20views&color=0e75b6&style=flat" alt="wendydonzse" /> </p>
 
